@@ -1,0 +1,10 @@
+Package: httkInt
+Type: Package
+Title: High-throughput toxikokinetics
+Version: 1.0
+Date: 2018-04-30
+Author: Georgia Tsiliki
+Maintainer: Georgia Tsiliki <gtsiliki@central.ntua.gr>
+Depends: RCurl,pmml,jsonlite,httk,ggplot2,reshape2
+Description: Perform toxico-kinetics also using with literature data and models.
+License: GPL-2
