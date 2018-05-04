@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+import(RCurl)
+import(pmml)
+import(jsonlite)
+import(httk)
+import(ggplot2)
+import(reshape2)
